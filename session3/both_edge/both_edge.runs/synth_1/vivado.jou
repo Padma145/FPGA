@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:47:01 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Mon May 26 18:51:21 2025
+# Process ID: 171319
+# Current directory: /home/padmashreea/session3/both_edge/both_edge.runs/synth_1
+# Command line: vivado -log both_edge_detector.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source both_edge_detector.tcl
+# Log file: /home/padmashreea/session3/both_edge/both_edge.runs/synth_1/both_edge_detector.vds
+# Journal file: /home/padmashreea/session3/both_edge/both_edge.runs/synth_1/vivado.jou
+# Running On: vlsiguru4, OS: Linux, CPU Frequency: 2100.000 MHz, CPU Physical cores: 16, Host memory: 134459 MB
+#-----------------------------------------------------------
+source both_edge_detector.tcl -notrace
