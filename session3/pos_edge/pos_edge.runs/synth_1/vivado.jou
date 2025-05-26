@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:47:01 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Mon May 26 18:39:10 2025
+# Process ID: 167550
+# Current directory: /home/padmashreea/session3/pos_edge/pos_edge.runs/synth_1
+# Command line: vivado -log pos_edge_det.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source pos_edge_det.tcl
+# Log file: /home/padmashreea/session3/pos_edge/pos_edge.runs/synth_1/pos_edge_det.vds
+# Journal file: /home/padmashreea/session3/pos_edge/pos_edge.runs/synth_1/vivado.jou
+# Running On: vlsiguru4, OS: Linux, CPU Frequency: 2100.000 MHz, CPU Physical cores: 16, Host memory: 134459 MB
+#-----------------------------------------------------------
+source pos_edge_det.tcl -notrace
