@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:47:01 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Tue May 20 14:46:25 2025
+# Process ID: 133299
+# Current directory: /home/padmashreea/fpga/gate_d_flipflop/gate_d_flipflop.runs/synth_1
+# Command line: vivado -log gate_d.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source gate_d.tcl
+# Log file: /home/padmashreea/fpga/gate_d_flipflop/gate_d_flipflop.runs/synth_1/gate_d.vds
+# Journal file: /home/padmashreea/fpga/gate_d_flipflop/gate_d_flipflop.runs/synth_1/vivado.jou
+# Running On: vlsiguru4, OS: Linux, CPU Frequency: 2100.000 MHz, CPU Physical cores: 16, Host memory: 134459 MB
+#-----------------------------------------------------------
+source gate_d.tcl -notrace
