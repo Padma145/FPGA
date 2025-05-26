@@ -14,7 +14,7 @@ In this project, the priority encoder is integrated with a basic interrupt handl
 The image shown below is the schematic representation of priority encoder in Xilinx Vivado tool.
 ![image](https://github.com/user-attachments/assets/4c343792-824a-4bd2-a8e6-5cf92d25b3eb)
 
-# 21_Mux
+# 3. 21_Mux
 This project demonstrates the design, simulation, and implementation of a 2:1 multiplexer using Verilog HDL on an FPGA platform, utilizing Xilinx Vivado for development and testing.
 A 2:1 multiplexer is a fundamental combinational circuit that selects one of two input signals based on a control signal (select line) and forwards it to a single output. Such multiplexers are integral in digital systems for tasks like data routing, resource sharing, and implementing control logic.
 
