@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:47:01 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Sun May 18 10:50:23 2025
+# Process ID: 174169
+# Current directory: /home/padmashreea/ass2/pri_enc/pri_enc.runs/synth_1
+# Command line: vivado -log pri_enc.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source pri_enc.tcl
+# Log file: /home/padmashreea/ass2/pri_enc/pri_enc.runs/synth_1/pri_enc.vds
+# Journal file: /home/padmashreea/ass2/pri_enc/pri_enc.runs/synth_1/vivado.jou
+# Running On: vlsiguru4, OS: Linux, CPU Frequency: 2100.000 MHz, CPU Physical cores: 16, Host memory: 134459 MB
+#-----------------------------------------------------------
+source pri_enc.tcl -notrace
